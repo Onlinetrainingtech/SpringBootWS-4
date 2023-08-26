@@ -1,0 +1,5 @@
+package com.example.SpringBootE2Web.Controller;
+
+public class HomeController {
+
+}
