@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OnlineTraning\SpringBootWS-4\Springbooth2Example2"/>
+			<item value="D:\OnlineTraning\SpringBootWS-4\SpringBootResetE3"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\SpringBootE2Web"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\SpringBootE1"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\Spring-boot-h2-Example1"/>
