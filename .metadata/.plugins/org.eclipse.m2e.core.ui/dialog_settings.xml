@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OnlineTraning\SpringBootWS-4\spring-boot-h2-example10"/>
+			<item value="D:\OnlineTraning\SpringBootWS-4\apache-derby-example"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\spring-boot-rest-exampleP2"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\SpringBootP2Web"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\SpringBootP2"/>
@@ -15,7 +17,6 @@
 			<item value="D:\OnlineTraning\SpringBootWS-4\Spring-DemoP1"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\SpringB3H2DB"/>
 			<item value="D:\OnlineTraning\SpringBootWS-4\MrgSpringBootH2db"/>
-			<item value="D:\OnlineTraning\SpringBootWS-4\MrgSpringBootRest"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
