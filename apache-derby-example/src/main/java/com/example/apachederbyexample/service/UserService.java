@@ -13,12 +13,11 @@ public class UserService
 {    
 @Autowired    
 private UserRepository userRepository;    
-public List<UserRecord> getAllUsers()  
-{    
-List<UserRecord>userRecords = new ArrayList<>();    
-userRepository.findAll().forEach(userRecords::add);    
-return userRecords;    
-}    
+public List<UserRecord> getAllUsers() {
+    List<UserRecord> users = new ArrayList<>();
+    userRepository.findAll().forEach(users::add);
+    return users;
+}  
 public void addUser(UserRecord userRecord)  
 {    
 userRepository.save(userRecord);    

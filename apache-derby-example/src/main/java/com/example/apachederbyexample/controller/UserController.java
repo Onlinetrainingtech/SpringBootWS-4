@@ -20,9 +20,9 @@ public List<UserRecord> getAllUser()
 {    
 return userService.getAllUsers();    
 }       
-@RequestMapping(value="/add-user", method=RequestMethod.POST)    
+@RequestMapping(value="/adduser", method=RequestMethod.POST)    
 public void addUser(@RequestBody UserRecord userRecord)  
 {    
 userService.addUser(userRecord);    
 }       
-}   
+}
