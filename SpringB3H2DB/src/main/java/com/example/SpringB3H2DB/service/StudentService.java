@@ -11,8 +11,6 @@ import com.example.SpringB3H2DB.repository.StudentRepository;
 @Service
 public class StudentService
 {
-
-	
 	@Autowired
 	StudentRepository studentRepository;
 	
